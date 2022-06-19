@@ -13,20 +13,26 @@ The data was scraped from Github into excel. Transformations were done in Power 
 
 # Analysation and Visualization
 The data was analysed in excel with the use of pivot table and pivot chart and after which a dashboard was created
-![Covid 19 Dashboard](https://user-images.githubusercontent.com/105246702/174485288-925aa788-a906-4990-ab8f-455069c7f4de.png)
+![Covid 19 Dashboard](https://user-images.githubusercontent.com/105246702/174492961-8ee79e72-dca2-4ef2-b80b-1a74e060d1c5.png)
+
 
 # Findings
 As at June 18 2022 there was a total of  151,333,743,548 confirmed cases and  2,652,817,061 death cases with a rate of 1.75%.
-![total findings](https://user-images.githubusercontent.com/105246702/174485308-e1b54aee-15d7-484d-bd8a-2ebc489a868f.png)
+![total findings](https://user-images.githubusercontent.com/105246702/174493128-982be362-6728-4714-8c07-ba0d51c9e2b0.png)
+
 
 USA has the highest confirmed and death cases. North korea has the lowest confirmd cases.
-![findings](https://user-images.githubusercontent.com/105246702/174485324-40b379c6-1fdb-4193-9a62-019d646a2228.png)
+![findings](https://user-images.githubusercontent.com/105246702/174493139-ecab719f-f6f0-48dd-847b-3d8645025ccf.png)
+
 
 Nigeria which is my country has  256,467 confirmed cases and  3,148 death cases with a rate of 1.33%.
-![nigeria cases](https://user-images.githubusercontent.com/105246702/174485428-94ca684a-aced-4e6a-950e-67a6b7a2716d.png)
+
+![nigeria](https://user-images.githubusercontent.com/105246702/174493155-9bb57ed6-ce94-47dd-9b42-f6d89f5a03b9.png)
+
 
 The month of May has the highest incidence of confirmed and death cases since 2020 till date
-![monthly cases](https://user-images.githubusercontent.com/105246702/174485480-f38fb8e3-67f0-4ac6-a7fc-1d877a4bd487.png)
+![monthly](https://user-images.githubusercontent.com/105246702/174493178-e6aef025-c766-4b36-a037-f60d2ca5f89d.png)
+
 
 --------
 # Recommendation
