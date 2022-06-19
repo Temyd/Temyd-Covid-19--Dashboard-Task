@@ -31,5 +31,5 @@ The month of May has the highest incidence of confirmed and death cases since 20
 --------
 # Recommendation
 USA should take necessary steps to reduce the occurence and death rate.
-North Korea shold share tips on how they were able to keep a low occurnce rate
+North Korea should share tips on how they were able to keep a low occurnce rate
 
