@@ -13,16 +13,20 @@ The data was scraped from Github into excel. Transformations were done in Power 
 
 # Analysation and Visualization
 The data was analysed in excel with the use of pivot table and pivot chart and after which a dashboard was created
-![Covid 19 Dashboard](https://user-images.githubusercontent.com/105246702/174492961-8ee79e72-dca2-4ef2-b80b-1a74e060d1c5.png)
+![Covid 19 Dashboard](https://user-images.githubusercontent.com/105246702/174688392-739fdac8-a425-4004-9132-5499f509b668.png)
+
 
 
 # Findings
 As at June 18 2022 there was a total of  151,333,743,548 confirmed cases and  2,652,817,061 death cases with a rate of 1.75%.
-![total findings](https://user-images.githubusercontent.com/105246702/174493128-982be362-6728-4714-8c07-ba0d51c9e2b0.png)
+![total findings](https://user-images.githubusercontent.com/105246702/174688261-87b02afc-1c5d-4c48-b488-04512b8869ca.png)
+
 
 
 USA has the highest confirmed and death cases. North korea has the lowest confirmd cases.
-![findings](https://user-images.githubusercontent.com/105246702/174493139-ecab719f-f6f0-48dd-847b-3d8645025ccf.png)
+![highest and lowest cases](https://user-images.githubusercontent.com/105246702/174688295-18f69c80-5ff5-4144-a8d5-89287a4d47d7.png)
+![death cases](https://user-images.githubusercontent.com/105246702/174688313-11b7d5df-9d47-4443-851c-c5dbb130eba9.png)
+
 
 
 Nigeria which is my country has  256,467 confirmed cases and  3,148 death cases with a rate of 1.33%.
@@ -31,7 +35,8 @@ Nigeria which is my country has  256,467 confirmed cases and  3,148 death cases 
 
 
 The month of May has the highest incidence of confirmed and death cases since 2020 till date
-![monthly](https://user-images.githubusercontent.com/105246702/174493178-e6aef025-c766-4b36-a037-f60d2ca5f89d.png)
+![monthly](https://user-images.githubusercontent.com/105246702/174688342-1ceef601-2d4e-4af4-ad79-fc5fd5ce408f.png)
+
 
 
 --------
